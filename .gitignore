@@ -1,3 +1,4 @@
 session-store.db
 lib/users.sql
 recreate-db
+.env
